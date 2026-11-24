@@ -1,3 +1,5 @@
+![Chuyển sang Markdown - iFix Laptop](anh/banner.png)
+
 # Chuyển sang Markdown — by iFix Laptop
 
 Phần mềm chuyển **PDF, Word, Excel, PowerPoint, ảnh, trang web...** sang **Markdown (.md)**, dạng chữ mà ChatGPT, Claude và các AI khác đọc tốt nhất. Đọc được cả **PDF scan và ảnh chụp** (17 thứ tiếng, tự nhận ngôn ngữ), tự lưu ảnh các trang có hình vẽ để AI xem lại khi cần. Chạy trên Windows, tài liệu xử lý ngay trên máy, không gửi lên mạng.
