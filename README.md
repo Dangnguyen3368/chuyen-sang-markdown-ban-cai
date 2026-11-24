@@ -6,7 +6,7 @@ Phần mềm chuyển **PDF, Word, Excel, PowerPoint, ảnh, trang web...** sang
 
 ## Tải về
 
-**[⬇ Tải file cài đặt mới nhất](https://github.com/Dangnguyen3368/chuyen-sang-markdown-ban-cai/releases/latest)** — trong trang đó bấm vào file `ChuyenSangMarkdown-CaiDat-x.y.z.exe`.
+**[⬇ Tải file cài đặt mới nhất](https://github.com/Dangnguyen3368/chuyen-sang-markdown-ban-cai/releases/latest/download/ChuyenSangMarkdown-CaiDat.exe)** (bấm là tải ngay, khoảng 200 MB).
 
 Yêu cầu máy:
 
@@ -15,7 +15,7 @@ Yêu cầu máy:
 
 ## Cài đặt (khoảng 1 phút)
 
-1. Bấm đúp file **ChuyenSangMarkdown-CaiDat-x.y.z.exe** vừa tải.
+1. Bấm đúp file **ChuyenSangMarkdown-CaiDat.exe** vừa tải.
 2. Nếu Windows hiện **"Windows protected your PC"**: bấm **More info**, rồi **Run anyway**. Đây là cảnh báo bình thường với phần mềm mới, không phải virus.
 3. Bấm **Tiếp**, **Cài đặt**, rồi **Hoàn tất**. Biểu tượng **Chuyển sang Markdown** có trên Desktop và Start Menu.
 
